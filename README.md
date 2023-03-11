@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Valentine Cherake.
 - 👀 I’m interested in building web apps, apis using javascript frameworks like ReactJS, MongoDB & Express in NodeJS.
-- 🦖 I am interested Data Science and have started looking at R Programming and R Studio.
+- 🦖 I am also now interested Data Science and have started looking at R Programming and R Studio.
 - 🌱 I’m currently learning React Functional Hooks.
 - 💞️ I’m looking to collaborate on web application projects, robotics, data analysis.
 - 📫 You can reach me on my email address cherakeval@gmail.com
